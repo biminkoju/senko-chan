@@ -1,0 +1,24 @@
+{
+  "name": "senko-chan",
+  "version": "1.0.0",
+  "description": "better senko bot by dragen on caffeine pog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biminkoju/senko-chan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biminkoju/senko-chan/issues"
+  },
+  "homepage": "https://github.com/biminkoju/senko-chan#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nekos.life": "^2.0.7"
+  }
+}
