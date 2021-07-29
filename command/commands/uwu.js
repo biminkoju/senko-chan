@@ -5,6 +5,6 @@ module.exports = {
     commands:["uwu","owo"],
     description: 'uwu',
     callback: ( message ) => {
-        message.reply(i18n.__("uwu.message"));
+        message.reply('uwu');
     }
 };

@@ -6,7 +6,6 @@ const { token } = require('@botutil');
 const loadCommands = require('@root/command/load-commands');                    
 const commandBase = require('@root/command/command-base');                      
 const loadFeatures = require('@root/features/load-features');
-const path = require('path')
 //ready event
 client.on('ready', async () => {
     console.log('uwu you are so warm'); //uwu
